@@ -1,0 +1,103 @@
+h1 {
+	font-family: "Fjalla One", Century, sans-serif;
+	text-align: center;
+	font-size: 6em;
+	color: Wheat;
+}
+
+h2 {
+	font-family: "Fjalla One";
+	font-size: 4em;
+	color: White;
+	text-align: center;
+}
+
+h3 {
+	font-family: "Fjalla One";
+	font-size: 3em;
+	color: Wheat;
+	text-align: center;
+}
+
+
+p {
+	font-family: "Cormorant Garamond", Century, serif;
+	text-align: center;
+	color: Wheat;
+	font-size: 21px;
+}
+
+
+body {
+	background-image: url("file:///Users/joshuahoisington/desktop/woodsy.jpg");
+	background-size: cover;
+	background-color: rgb(10,45,63);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center; 
+}
+
+.menu {
+	display: inline;
+	text-align: center;
+	font-family: "Fjalla One";
+	font-style: normal;
+	font size: 25px;
+
+	
+
+}
+
+
+a {
+	text-decoration: none;
+	color: Wheat;
+
+}
+
+.menu a:hover {
+	background-color: rgba(6, 5, 4, 0.4);
+	margin: 20px 20px;
+	padding: 35px 55px;
+}
+
+
+
+
+
+li {
+  
+  
+  display: inline-block;
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 40px 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-transform: uppercase;
+  border-style: none;
+  border-width: 4px;
+  text-decoration: none;
+  background-color: rgba(236, 240, 241,0.2);
+  box-sizing: border-box;
+  width: 300px;
+  height: 100px;
+}
+
+
+
+footer {
+	font-family: "Cormorant Garamond";
+	text-align: center;
+	color: Wheat;
+}
+
+img {
+	display: block;
+    margin: 0 auto;
+}
+
+.aboutbody div {
+	background-color: rgba(196, 3, 3, 0.37);
+
+}
